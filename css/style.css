@@ -211,9 +211,10 @@ a.all
 
 .logo
 {
+    font-family: 'Monoton', cursive;
     color: #ff5656;
     font-size: 40px;
-    text-shadow: 0 0 10px #ff5656;
+    text-shadow: 0 0 5px #ff5656;
     width: 15%;
 }
 
