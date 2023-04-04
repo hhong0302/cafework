@@ -1,0 +1,72 @@
+{ "cafelist":[
+    {
+        "img": "https://picsum.photos/id/237/110/70",
+        "num" : 1,
+        "content" : "내일부터 35%인상 ㄷㄷ.jpg",
+        "cafename" : "(DOTAX)",
+        "comment" : 30
+    },
+    {
+        "img": "https://picsum.photos/id/238/110/70",
+        "num" : 2,
+        "content" : "본인이 실수로 어쩌구 저쩌구",
+        "cafename" : "도탁(DOTAX)",
+        "comment" : 300
+    },
+    {
+        "img": "https://picsum.photos/id/239/110/70",
+        "num" : 3,
+        "content" : "당근에 올라온 750만원짜리 냉장고",
+        "cafename" : "도탁스(DOTX)",
+        "comment" : 301
+    },
+    {
+        "img": "https://picsum.photos/id/230/110/70",
+        "num" : 4,
+        "content" : "이병헌 세무조사로 탈탈 \"탈세사비로\" 전직원 상여금",
+        "cafename" : "도탁스(DX)",
+        "comment" : 302
+    },
+    {
+        "img": "https://picsum.photos/id/231/110/70",
+        "num" : 5,
+        "content" : "나폴리 현지 뒷골목 분위기",
+        "cafename" : "도탁스(TAX)",
+        "comment" : 3
+    },
+    {
+        "img": "https://picsum.photos/id/232/110/70",
+        "num" : 6,
+        "content" : "복권에서하는 스피드 조작 의심 글 뜸",
+        "cafename" : "도(DOTAX)",
+        "comment" : 31
+    },
+    {
+        "img": "https://picsum.photos/id/233/110/70",
+        "num" : 7,
+        "content" : "코덕들 사이에서도 작작 해라 소리 나오는 요즘 화장품 영기 디자인 특징",
+        "cafename" : "도탁(DOAX)",
+        "comment" : 305
+    },
+    {
+        "img": "https://picsum.photos/id/234/110/70",
+        "num" : 8,
+        "content" : "새벽에 깨서 화장실 다녀올때 가장 중요한 것",
+        "cafename" : "도스(DOTAX)",
+        "comment" : 6
+    },
+    {
+        "img": "https://picsum.photos/id/235/110/70",
+        "num" : 9,
+        "content" : "웬일로 디자인 예쁜 신상 갤럭시폰",
+        "cafename" : "탁스(DOTAX)",
+        "comment" : 3
+    },
+    {
+        "img": "https://picsum.photos/id/236/110/70",
+        "num" : 10,
+        "content" : "내일부터 53%인상 EE.jpg",
+        "cafename" : "도탁스(DOTAX)",
+        "comment" : 33
+    }
+]}
