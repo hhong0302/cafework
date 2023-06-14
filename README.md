@@ -1,2 +1,2 @@
-# cafework
-# cafework
+# 다음 카페를 모방한 프로젝트입니다
+# front-end로만 이루어져있습니다
